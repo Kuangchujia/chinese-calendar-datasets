@@ -5,6 +5,8 @@
 > **本仓是「中国历法」系列公开数据集的总入口。只做索引与互链，不存放数据本体。**
 > 数据本体在各自子仓与 Zenodo，下载与引用请前往子仓。引用一律用 **Zenodo 概念 DOI**——它永久指向最新版本。
 
+*This repository is the index of the "Chinese Calendar" open dataset series. It indexes and cross-links only — no data itself is stored here. The data lives in the sub-repositories and on Zenodo; please go there to download and cite. Always cite the **Zenodo concept DOI** — it points permanently to the latest version.*
+
 ---
 
 ## 一、数据集一览
