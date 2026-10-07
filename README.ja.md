@@ -63,6 +63,7 @@ Zenodo の各記録には二つの番号がある：
 | **ORCID iD** | [0009-0002-7650-833X](https://orcid.org/0009-0002-7650-833X) |
 | **OpenAlex** | [A5151908354](https://openalex.org/A5151908354) |
 | **総入口 / 検証頁** | <https://kuangchujia.com> |
+| **OSF プロジェクト（オープン研究ミラー）** | <https://osf.io/3sz95/> |
 
 - **データ**（第一・二件）は **Creative Commons Attribution 4.0 International（CC BY 4.0）**を採用。自由に使用・複製・改変・配布（商用を含む）できる。条件は署名。術語の対応関係は汎用の数表の性質に属し、釈義は著者自身のオリジナルな表述である。
 - **ソフトウェア**（第二節）は **MIT License**を採用。
