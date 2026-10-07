@@ -63,6 +63,7 @@ This index therefore publishes **concept DOIs only**. When a dataset gains a new
 | **ORCID iD** | [0009-0002-7650-833X](https://orcid.org/0009-0002-7650-833X) |
 | **OpenAlex** | [A5151908354](https://openalex.org/A5151908354) |
 | **Umbrella entry point / verification hub** | <https://kuangchujia.com> |
+| **OSF project (open research mirror)** | <https://osf.io/3sz95/> |
 
 - **The data** (datasets 1 and 2) is released under **Creative Commons Attribution 4.0 International (CC BY 4.0)** — free to use, copy, modify and distribute, including commercially, on condition of attribution. The term correspondences are of the nature of a general table of data; the definitions are the author's original wording.
 - **The software** (section II) is released under the **MIT License**.
