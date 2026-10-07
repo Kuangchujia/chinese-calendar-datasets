@@ -63,6 +63,7 @@ Zenodo 每一条记录有两个号：
 | **ORCID iD** | [0009-0002-7650-833X](https://orcid.org/0009-0002-7650-833X) |
 | **OpenAlex** | [A5151908354](https://openalex.org/A5151908354) |
 | **总入口 / 校验页** | <https://kuangchujia.com> |
+| **OSF 项目（开放研究镜像）** | <https://osf.io/3wvkh/> |
 
 - **数据**（第 1、2 件）采用 **Creative Commons Attribution 4.0 International（CC BY 4.0）**，可自由使用、复制、修改、分发（含商业用途），条件是署名。术语对照关系属通用数表性质；释义为作者原创表述。
 - **软件**（第 2 节）采用 **MIT License**。
